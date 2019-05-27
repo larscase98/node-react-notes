@@ -1,0 +1,28 @@
+{
+	"name": "lars-noteapp",
+	"version": "1.0.0",
+	"description": "A node and react note-taking app.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/larscase98/node-react-notes.git"
+	},
+	"author": "Lars",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/larscase98/node-react-notes/issues"
+	},
+	"homepage": "https://github.com/larscase98/node-react-notes#readme",
+	"engines": {
+		"node": "11.15.0"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"concurrently": "^4.1.0"
+	}
+}
